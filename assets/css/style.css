@@ -5,7 +5,8 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #141111;
-  background-image: url("https://cdn.pixabay.com/photo/2015/03/27/20/54/continents-695188_960_720.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2019/04/04/08/01/icon-4102192_1280.png");
+  background-repeat: repeat;
 }
 
 * {
